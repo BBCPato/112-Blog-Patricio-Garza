@@ -1,0 +1,10 @@
+body{
+    background-color: gold;
+    color: blue;
+}
+header{
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
